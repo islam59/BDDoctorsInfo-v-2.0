@@ -1,0 +1,6 @@
+.section-header{  }
+.navbar-theme,.section-footer{
+	background-color:#024;
+}
+.carousel-caption h3,.carousel-caption p{ color:#024; }
+th{ background-color:#024; color:white; }

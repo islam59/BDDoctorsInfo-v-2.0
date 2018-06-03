@@ -1,0 +1,46 @@
+
+.section-banner{ margin:0px; padding:0px; }
+.section-banner-menu{	background-color:#028DFA; }
+.nav li{ opacity:0.9; color:white; }
+.nav a{ font-size:1.4em;  font-weight:bold;  margin:10px; }
+.logo{ width:20px; height:20px; }
+#link{ color:white;  }
+/*header end..*/
+ .section-footer { background-color: #028DFA; text-align:right; color:#d7d7d7; font-weight:bold; padding:8px; }
+ .section-footer a{ color:white; font-weight:bold; opacity:0.5; text-transform:Uppercase; }
+ /*footer end..*/
+.section-content{
+	 margin-top:70px; 
+}
+.left-menu{ background:#028DFA; padding-top:20px; }
+.left-menu-item{ border-bottom:1px solid white;  }
+.left-menu-item a{ display:block; padding:20px 0px; text-decoration:none; 
+	font-size:1.2em; font-weight:bold; color:white;
+}
+ .left-menu-item .left-menu-active{ opacity:0.5;  }
+ .left-menu-item a:hover{ opacity:0.5;  }
+/*End of menu style..*/ 
+.pageHead{ padding:10px 0px 10px 15px; background:linear-gradient(to right, #028DFA, #fff);
+	margin:0px;  font-weight:bold; text-transform:uppercase; }
+.dashboard-box{
+	border:2px solid #028DFA;  border-radius:10px; 
+}
+.dashboard-box h4{ background:linear-gradient(to right, #028DFA, #fff);   padding:4px 0px; 
+	border-radius:10px 10px 0px 0px; text-align:center; margin:0px; 
+}
+
+/*index-summary*/
+p{
+	text-align: center; padding:10px; 
+}
+
+/*shop-kepper*/
+.shop-kepper{  	 }
+.name{ font-size:1.2em; font-weight: bold; 		  }
+.position{ font-weight: bold;  }
+.details{ color:green; 	 }
+.action a{ margin-top:20px;  }
+
+/*product list*/
+.table-product{ height: 380px; overflow: scroll; margin-top:-21px; }
+
